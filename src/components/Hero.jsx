@@ -84,15 +84,15 @@ function Hero() {
 
           {/* Resume */}
           <a
-            href={`${import.meta.env.BASE_URL}Diwita_Banerjee_AI_ML_Engineer_Resume_Meta.pdf.pdf`}
-            download
-            title="Download Resume"
+            href={`${import.meta.env.BASE_URL}Diwita_Banerjee_AI_ML_Engineer_Resume_Meta.pdf`}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Resume"
             className="group inline-flex items-center gap-2 rounded-xl border border-white/15 bg-white/5 px-6 py-3 font-semibold text-white transition hover:-translate-y-0.5 hover:bg-white hover:text-slate-900"
-          >
+            >
             <span className="text-white transition group-hover:text-slate-900">
                 Resume
             </span>
-            <FaDownload className="transition group-hover:text-slate-900" />
           </a>
         </div>
 
