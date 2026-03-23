@@ -8,7 +8,6 @@ function Skills({ embedded = false }) {
       {!embedded && (
         <SectionTitle
           title="My Technical Skills"
-          description="Technical strengths across AI, data, cloud, and software engineering."
           light={true}
         />
       )}
@@ -41,7 +40,7 @@ function Skills({ embedded = false }) {
     </>
   )
 
-  if (embedded){
+  if (embedded) {
     return <div id="skills">{content}</div>
   }
 

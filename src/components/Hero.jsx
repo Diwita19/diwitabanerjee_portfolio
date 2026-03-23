@@ -32,7 +32,7 @@ function Hero() {
         {/* Profile */}
         <div className="mb-8 h-36 w-36 overflow-hidden rounded-full border-4 border-white/15 shadow-xl shadow-violet-500/10">
           <img
-            src="/profile.jpg"
+            src={`${import.meta.env.BASE_URL}profile.jpg`}
             alt="Diwita Banerjee"
             className="h-full w-full object-cover"
           />
@@ -84,7 +84,7 @@ function Hero() {
 
           {/* Resume */}
           <a
-            href="/Diwita_Banerjee_AI_ML_Engineer_Resume_Meta.pdf"
+            href={`${import.meta.env.BASE_URL}Diwita_Banerjee_AI_ML_Engineer_Resume_Meta.pdf.pdf`}
             download
             title="Download Resume"
             className="group inline-flex items-center gap-2 rounded-xl border border-white/15 bg-white/5 px-6 py-3 font-semibold text-white transition hover:-translate-y-0.5 hover:bg-white hover:text-slate-900"
