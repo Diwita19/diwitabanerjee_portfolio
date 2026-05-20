@@ -84,7 +84,7 @@ function Hero() {
 
           {/* Resume */}
           <a
-            href={`${import.meta.env.BASE_URL}Diwita_Banerjee_AI_ML_Engineer_Resume.pdf`}
+            href={`${import.meta.env.BASE_URL}Diwita_Banerjee_ML_Engineer_Resume.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             title="Resume"
