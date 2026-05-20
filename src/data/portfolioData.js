@@ -200,7 +200,7 @@ export const experienceData = [{
         logo: `${import.meta.env.BASE_URL}logos/gmu_logo.png`,
         role: 'AI Research Assistant',
         shortRole: 'AI Research Assistant',
-        duration: 'May 2024 – Mar 2025',
+        duration: 'Mar 2024 – Nov 2024',
         location: 'Fairfax, Virginia, USA',
         description: 'Research on multimodal AI systems, fairness, and robustness in generative models.',
         highlights: [

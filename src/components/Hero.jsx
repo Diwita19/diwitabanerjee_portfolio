@@ -53,7 +53,7 @@ function Hero() {
 
           {/* Email */}
           <a
-            href="mailto:diwitabanerjee01@gmail.com"
+            href="mailto:banerjeediwita@gmail.com"
             title="Email"
             className="group flex h-12 w-12 items-center justify-center rounded-full border border-white/15 bg-white/5 transition hover:-translate-y-0.5 hover:bg-white"
           >
@@ -84,7 +84,7 @@ function Hero() {
 
           {/* Resume */}
           <a
-            href={`${import.meta.env.BASE_URL}Diwita_Banerjee_AI_ML_Engineer_Resume_Meta.pdf`}
+            href={`${import.meta.env.BASE_URL}Diwita_Banerjee_AI_ML_Engineer_Resume.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             title="Resume"

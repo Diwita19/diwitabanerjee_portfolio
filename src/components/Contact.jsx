@@ -63,7 +63,7 @@ function Contact() {
         >
           <div className="flex flex-col items-center justify-center gap-8">
             <a
-              href="mailto:diwitabanerjee01@gmail.com"
+              href="mailto:banerjeediwita@gmail.com"
               className="group text-white/80 transition hover:text-white"
               title="Email"
             >
