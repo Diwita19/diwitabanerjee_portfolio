@@ -1,7 +1,7 @@
 export const aboutData = {
     title: 'About Me',
     paragraphs: [
-        'I\'m an AI/ML Engineer with 5+ years of experience building production-grade machine learning and LLM systems across finance, healthcare, and enterprise environments. I earned my M.S. in Computer Science from George Mason University with a focus on machine learning, scalable AI, and applied research.',
+        'I\'m a Machine Learning Engineer with 5+ years of experience building production-grade machine learning and LLM systems across finance, healthcare, and enterprise environments. I earned my M.S. in Computer Science from George Mason University with a focus on machine learning, scalable AI, and applied research.',
         'I work across the full ML lifecycle, from model development and evaluation to RAG, NLP, MLOps, cloud deployment, and monitoring. My focus is building reliable, auditable, and high-impact AI systems that turn complex data and research ideas into practical products.'
     ],
 }

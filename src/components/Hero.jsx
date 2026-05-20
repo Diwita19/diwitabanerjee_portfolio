@@ -45,7 +45,7 @@ function Hero() {
 
         {/* Role */}
         <p className="mt-4 text-lg font-medium text-violet-200 md:text-2xl">
-          AI/ML Engineer | Data Scientist | Full-Stack AI Developer
+          Machine Learning Engineer | Data Scientist | Full-Stack AI Developer
         </p>
 
         {/* Buttons */}

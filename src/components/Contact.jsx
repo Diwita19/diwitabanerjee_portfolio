@@ -51,7 +51,7 @@ function Contact() {
         <div className="mb-14 text-center">
           <h2 className="text-3xl font-bold md:text-4xl">Connect With Me</h2>
           <p className="mx-auto mt-4 max-w-3xl text-white/70">
-            Open to AI/ML engineering, research collaboration, and impactful work.
+            Open to machine learning engineering, research collaboration, and impactful work.
           </p>
         </div>
 
@@ -95,7 +95,7 @@ function Contact() {
             <p className="text-xl font-bold text-[#c8c2ff]">Fastest way</p>
 
             <p className="mt-6 leading-8 text-white/70">
-              I am always excited for new AI/ML engineering, research collaboration, or full-stack AI opportunities and collaboration.
+              I am always excited for new machine learning engineering, research collaboration, or full-stack AI opportunities and collaboration.
             </p>
 
             <form ref={formRef} onSubmit={handleSubmit} className="mt-10 space-y-5">
