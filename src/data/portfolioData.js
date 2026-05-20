@@ -217,7 +217,7 @@ export const certificationsData = [{
 
 export const experienceData = [{
         company: 'DoorDash',
-        logo: `${import.meta.env.BASE_URL}logos/DoorDash_logo.png`,
+        logo: `${import.meta.env.BASE_URL}logos/DoorDash_logo.png?v=20260520`,
         role: 'Machine Learning Engineer',
         shortRole: 'ML Engineer',
         duration: 'Dec 2024 - Present',
