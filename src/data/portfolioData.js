@@ -221,7 +221,7 @@ export const experienceData = [{
         role: 'Machine Learning Engineer',
         shortRole: 'ML Engineer',
         duration: 'Dec 2024 - Present',
-        location: 'United States',
+        location: 'Remote, United States',
         description: 'Building scalable machine learning, LLM, RAG, and personalization systems for merchant support, customer experience, and delivery operations.',
         highlights: [
             'Built LLM-powered RAG systems for merchant support, customer sentiment analysis, and delivery operations, reducing query resolution time by 35% and manual effort by 30%.',
